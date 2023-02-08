@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hey 👋, I'm Kaushal Gurung</h1>
 <h3 align="center">Freelancer</h3>
 <img align="right" alt="Freelancer" width="400" src="https://media.tenor.com/EVR2TZAAiOYAAAAC/rayya-freelancer.gif"><br>
