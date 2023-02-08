@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kaushal Gurung</h1>
 <h3 align="center">Freelancer</h3>
-
+<img align="right" alt="Freelancer" width="400" src="https://media.tenor.com/EVR2TZAAiOYAAAAC/rayya-freelancer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/kaushal gurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaushal gurung" height="30" width="40" /></a>
