@@ -4,7 +4,7 @@
 <img align="right" alt="Freelancer" width="400" src="https://media.tenor.com/EVR2TZAAiOYAAAAC/rayya-freelancer.gif"><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://fb.com/kaushal gurung" target="blank"><img align="center"
+    <a href="https://www.facebook.com/people/Kaushal-Gurung/100076929000442" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="kaushal gurung" height="30" width="40" /></a>
     <a href="https://instagram.com/gurungkaushal" target="blank"><img align="center"
