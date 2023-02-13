@@ -13,6 +13,9 @@
     <a href="mailto:kaushalgurung2057@gmail.com" target="blank"><img align="center"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white""
             alt="kaushal gurung" height="30" width="60" /></a>
+    <a href="mailto:gurungkaushal2057@gmail.com" target="blank"><img align="center"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white""
+            alt="kaushal gurung" height="30" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
