@@ -1,6 +1,6 @@
 ![logo](https://github.com/Kaushalgurung/Kaushalgurung/blob/main/kaushal.jpg)
 <h1 align="center">Hey 👋, I'm Kaushal Gurung</h1>
-<h3 align="center">Freelancer</h3>
+<h2 align="center">Freelancer</h2>
 <img align="right" alt="Freelancer" width="400" src="https://media.tenor.com/EVR2TZAAiOYAAAAC/rayya-freelancer.gif"><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
