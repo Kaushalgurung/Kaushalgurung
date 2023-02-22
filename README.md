@@ -57,9 +57,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a> </p>
 
-<p><img align="left"
-        src="[https://github-readme-streak-stats.herokuapp.com/?user=Kaushalgurung&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Kaushalgurung&theme=dark&hide_border=true)"
-        alt="kaushalgurung" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaushalgurung"/></a>
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=kaushalgurung&show_icons=true&locale=en"
