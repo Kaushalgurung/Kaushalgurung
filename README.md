@@ -58,7 +58,7 @@
             alt="react" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushalgurung&theme=dark&hide_border=true"
+        src="[https://github-readme-streak-stats.herokuapp.com/?user=Kaushalgurung&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Kaushalgurung&theme=dark&hide_border=true)"
         alt="kaushalgurung" /></p>
 
 <p>&nbsp;<img align="center"
