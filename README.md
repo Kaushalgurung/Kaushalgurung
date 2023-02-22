@@ -58,10 +58,10 @@
             alt="react" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalgurung&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushalgurung&show_icons=true&locale=en&layout=compact"
         alt="kaushalgurung" /></p>
-        <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Kaushalgurung&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalgurung"
+<p>&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=kaushalgurung&show_icons=true&locale=en"
+        alt="kaushalgurung" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalgurung&"
         alt="kaushalgurung" /></p>
