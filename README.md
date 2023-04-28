@@ -12,12 +12,16 @@
     <a href="https://instagram.com/gurungkaushal" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="gurungkaushal" height="30" width="40" /></a>
+        <a href="https://www.linkedin.com/in/kaushal-gurung-1166a2219/" target="blank"><img align="center"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white""
+            alt="kaushal gurung" height="30" width="80" /></a>    
     <a href="mailto:kaushalgurung2057@gmail.com" target="blank"><img align="center"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white""
             alt="kaushal gurung" height="30" width="60" /></a>
     <a href="mailto:gurungkaushal2057@gmail.com" target="blank"><img align="center"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white""
             alt="kaushal gurung" height="30" width="60" /></a>
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
