@@ -1,6 +1,6 @@
 ![logo](https://github.com/Kaushalgurung/Kaushalgurung/blob/main/kaushal.jpg)
 <h1 align="center">Hey 👋, I'm Kaushal Gurung</h1>
-<h2 align="center" fontweight="bold">Freelancer</h2>
+<h2 align="center" fontweight="bold">Freelancer & Msc. Datascience student</h2>
 <p><img align="center" src="https://komarev.com/ghpvc/?username=kaushalgurung"
         alt="kaushalgurung" /></p>
 <img align="right" alt="Freelancer" width="400" src="https://media.tenor.com/EVR2TZAAiOYAAAAC/rayya-freelancer.gif"><br>
